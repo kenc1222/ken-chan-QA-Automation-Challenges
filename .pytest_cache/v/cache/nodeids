@@ -1,0 +1,9 @@
+[
+  "step/test_9day_forcast.py::test_9_day_forcast_API",
+  "step/test_9day_forcast.py::test_go_to_9day_forecast",
+  "step/test_9day_forcast.py::test_go_to_remarks",
+  "step/test_9day_forcast.py::test_switch_to_other_tab",
+  "step/test_9day_forcast.py::test_user_go_to_remarks",
+  "step/test_9day_forcast.py::test_user_switch_to_other_tab",
+  "step/test_9day_forcast_API.py::test_9_day_forcast_API"
+]
